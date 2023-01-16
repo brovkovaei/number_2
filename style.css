@@ -1,0 +1,23 @@
+.first {
+    color: black;
+}
+
+.first:hover {
+    color: orange;
+}
+
+.second {
+    color: red;
+}
+
+.second:hover {
+    color: orange;
+}
+
+p {
+    color: gray;
+}
+
+p:hover {
+    color: black;
+}
